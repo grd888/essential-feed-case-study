@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "EssentialFeedTests/Feed Cache/CacheFeedUseCaseTests.swift"
-            timestampString = "587261916.09308"
+            timestampString = "587262083.9618371"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "200"
-            endingLineNumber = "200"
+            startingLineNumber = "201"
+            endingLineNumber = "201"
             landmarkName = "completeInsertion(with:at:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -26,11 +26,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "EssentialFeedTests/Feed Cache/CacheFeedUseCaseTests.swift"
-            timestampString = "587261916.093452"
+            timestampString = "587262083.962333"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "195"
-            endingLineNumber = "195"
+            startingLineNumber = "196"
+            endingLineNumber = "196"
             landmarkName = "insert(_:timestamp:completion:)"
             landmarkType = "7">
          </BreakpointContent>
